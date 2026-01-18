@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-
 ||api.gocmod.com/gm/gocphai.js^
 ||api.gocmod.com/gm/GM.js^
 gocmod.com,file.gocmod.com##.gm-overlay
