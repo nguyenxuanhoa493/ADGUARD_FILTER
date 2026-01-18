@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+
+||api.gocmod.com/gm/gocphai.js^
+||api.gocmod.com/gm/GM.js^
+gocmod.com,file.gocmod.com##.gm-overlay
+gocmod.com,file.gocmod.com###gm-big-popup
+gocmod.com,file.gocmod.com##.gm-popup-img
+gocmod.com,file.gocmod.com###gm-float-widget
+gocmod.com,file.gocmod.com##.gm-widget-box
+gocmod.com,file.gocmod.com##.gm-right-button
+gocmod.com,file.gocmod.com###gocphai
+gocmod.com,file.gocmod.com##[class*="gocphai"]
+gocmod.com,file.gocmod.com##ins.adsbygoogle
+gocmod.com,file.gocmod.com##.ads
+gocmod.com,file.gocmod.com##.banner
