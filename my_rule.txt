@@ -36,3 +36,4 @@ anonyviet.com##.jeg_back_to_top
 ||doubleclick.net^$third-party
 ||googlesyndication.com^$third-party
 ||adsbygoogle.js$script
+anonyviet.com##img[src*="LienHeQuangCao"]
